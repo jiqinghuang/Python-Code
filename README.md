@@ -1,4 +1,4 @@
 Python-Code
 ===========
 
-online class material
+online class material, update weekly.
